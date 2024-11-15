@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4E6CB-7BA9-421A-97E0-FD40DBD47217}|..\\Class3th (Bit)\\Class3th (Bit).vcxproj|C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Class3th (Bit)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3885473D-D4DF-41C1-B3B9-054312BC2171}|Program.vcxproj|C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3885473D-D4DF-41C1-B3B9-054312BC2171}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AB0FA1-CEE0-441A-BA2E-F97A850B752C}|..\\Class 2th\\Class 2th.vcxproj|C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Class 2th\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA35CB-82E9-4B0D-A899-190A1E3C79D2}|..\\Class1th (Compile)\\Class1th (Compile).vcxproj|C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Class1th (Compile)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Class3th (Bit)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class3th (Bit)\\Source.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Class3th (Bit)\\Source.c",
+              "RelativeToolTip": "..\\Class3th (Bit)\\Source.c",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-15T09:06:32.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Program\\Source.c",
+              "RelativeDocumentMoniker": "Source.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Program\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-15T08:43:42.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Class 2th\\source.c",
+              "RelativeDocumentMoniker": "..\\Class 2th\\source.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Class 2th\\source.c",
+              "RelativeToolTip": "..\\Class 2th\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-15T08:43:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Class1th (Compile)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class1th (Compile)\\Source.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Lea_p\\Lea_p\\Class1th (Compile)\\Source.c",
+              "RelativeToolTip": "..\\Class1th (Compile)\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-15T08:43:42.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

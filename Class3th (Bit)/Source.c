@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void main()
+
 {
 #pragma region 비트
 	// 데이터를 나타내는 최소의 단위이며, 0 또는 1의
@@ -168,6 +169,82 @@ void main()
 	// 상수는 메모리 공간을 생성하는 동시에 초기화해야 하며,
 	// 한 번 저장된 값은 더 이상 변경할 수 없습니다.
 
+#pragma endregion
+
+#pragma region 오버플로우
+	// 특정한 자료형이 표현할 수 있는 최대값의 범위를
+	// 넘어서 연산을 수행하는 과정입니다.
+
+	// char character = 129;
+	// 
+	// printf("character 변수의 값 :%d\n", character);
+
+	// 오버플로우는 부호 없는 자료형에서도 똑같이 발생하며,
+	// 실수일 때, 오버플로우가 발생하면 infinity라는 값이 출력됩니다.
+
+#pragma endregion
+
+#pragma region 언더플로우
+	// 특정한 자료형이 표현할 수 있는 최소값의 범위
+	// 를 넘어서 연산을 수행하는 과정입니다.
+
+	// char alphabet = -130;
+	// 
+	// printf("alphabet의 변수의 값 : %d\n", alphabet);
+
+	// 언더플로우는 부호 없는 자료형에서도 똑같이 발생
+	// 하며, 실수일 때 언더플로우가 발생하면 0이라는 값이 출력됩니다.
+#pragma endregion
+
+#pragma region 시프트 연산자
+	// 비트의 위치를 오른쪽 또는 왼쪽으로 특정한 수만큼
+	// 이동시키는 연산자입니다.
+
+	// int x = 10;
+	// int y = 12;
+	// 
+	// printf("x의 값을 2번 왼쪽으로 이동한 결과 :%d\n", x << 2);
+	// printf("y의 값을 2번 오른쪽으로 이동한 결과: %d\n", y >> 2);
+
+#pragma endregion
+
+#pragma region 산술 연산자
+	 
+	// int result 1 <- 변수 + 변수
+	// int result 2 <- 리터럴 상수 - 변수 
+	// int result 3 <- 심볼릭 상수 * 리터럴 상수
+	// int result 4 <- 리터럴 상수 / 리터럴 상수
+	// int result 5 <- 심볼릭 상수 % 심볼릭 상수
+
+	// int data = 10;
+	// const int constant = 10;
+	// 
+	// int result1 = data + data;
+	// int result2 = 15 - data;
+	// int result3 = constant * 5;
+	// int result4 = 15 / 15;
+	// int result5 = constant % constant;
+	// 
+	// printf("result1의 변수의 값 : %d\n", result1);
+	// printf("result2의 변수의 값 : %d\n", result2);
+	// printf("result3의 변수의 값 : %d\n", result3);
+	// printf("result4의 변수의 값 : %d\n", result4);
+	// printf("result5의 변수의 값 : %d\n", result5);
+
+
+
+#pragma endregion
+
+#pragma region 부호 없는 자료형
+
+	// unsigned short mineral = 65535;
+	// 
+	// unsigned int gas = -1;
+	// 
+	// printf("mineral 변수의 값: %d\n", mineral);
+	// 
+	// printf("gas 변수의 값: %u\n, gas");
+	// printf("gas 변수의 값: %d\n, gas");
 #pragma endregion
 
 
