@@ -247,5 +247,51 @@ void main()
 	// printf("gas 변수의 값: %d\n, gas");
 #pragma endregion
 
+#pragma region 사분면
+	
+	// int x = (5, 0);
+	// int y = (0, 5);
+	// 
+	// printf("int x의 변수의 값 : %d\n, int x");
+	// printf("int y의 변수의 값 : %d\n, int y");
+
+	// int x = 5;
+	// int y = 5;
+	// 
+	// if (x > 0 & y > 0)
+	// {
+	// 	printf("제 1사분면");
+	// }
+	// 
+	// else if (x < 0 && y > 0")
+	// {
+	// 	printf("제 2사분면");
+	// }
+	// 
+	// else if (x < 0 && y < 0)
+	// {
+	// 	printf("제 3사분면");
+	// }
+	// else if (x > 0 && y < 0)
+	// {
+	// 	printf("제 4사분면");
+	// }
+	// else if (x !=0 && y ==0)
+	// {
+	// 	printf("x절편")
+	// }
+	// else if (x ==0 && y !=0)
+	// {
+	// 	printf("y절편")
+	// }
+	// else
+	// {
+	// 	printf("원점")
+	// }
+	
+	
+#pragma endregion
+
+#pragma endregion
 
 }
